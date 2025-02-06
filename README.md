@@ -35,15 +35,5 @@ My name is Igor Aroca, I am 29 years old, and I am from Araçatuba/SP. I graduat
 <img align="left" alt="SAP" title="SAP" width="40px" src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000"/>
 <br/><br/>
 
----
-
-## 📊 Statistics
-
-## 📊 Statistics
-
-<div>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=igorcarneir0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img align="right" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarneir0&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=7" />
-</div>
 
 
