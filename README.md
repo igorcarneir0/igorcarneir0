@@ -41,7 +41,7 @@ My name is Igor Aroca, I am 29 years old, and I am from Araçatuba/SP. I graduat
 
 <div align="center">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=igorcarneir0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  &nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarneir0&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
 </div>
+
 
